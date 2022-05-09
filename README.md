@@ -8,3 +8,6 @@ You may work in a group of at most 3 people. All submissions for your group will
 
 ## Due dates
 Deliverables due each week, final report due in Week 6.
+
+## Team Member
+Xinan Zhou, Hsi-Min Chou, Kevin Ferrer
